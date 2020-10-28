@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mstewart/EECE_2080/EECE_2080_Lab06/ADT.cpp
+ADT.h
+/home/mstewart/EECE_2080/EECE_2080_Lab06/ADT.h
+
+/home/mstewart/EECE_2080/EECE_2080_Lab06/ADT.h
+iostream
+-
+string
+-
+random
+-
+cstdlib
+-
+ctime
+-
+vector
+-
+
